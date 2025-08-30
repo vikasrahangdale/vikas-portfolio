@@ -15,7 +15,7 @@ const Projects: React.FC = () => {
     {
       title: 'Lounge Booking & Ordering Application',
       description: 'Built a full-stack solution for railway passengers to book lounge seats and order food at stations, usingNode.js, Express.js, MongoDB, React.js, and Tailwind CSS to ensure seamless functionality and userexperience',
-      image: '/public/booking.png',
+      image: '/booking.png',
       technologies: ['React.js', 'Express.js', 'MongoDB', 'Stripe' ,"Tailwind.CSS","CSS5","HTML5",],
       github: 'https://github.com/khileshmaskare34/shyama',
       demo: '#'
