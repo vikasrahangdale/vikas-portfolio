@@ -90,7 +90,7 @@ const Navbar: React.FC = () => {
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.95 }}
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className="p-2 rounded-full bg-gray-200 mr-8 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:text-yellow-400 dark:hover:text-yellow-400"
+              className="p-2 rounded-full bg-gray-200  dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:text-yellow-400 dark:hover:text-yellow-400"
             >
               {isMobileMenuOpen ? <X size={20} /> : <Menu size={20} />}
             </motion.button>
