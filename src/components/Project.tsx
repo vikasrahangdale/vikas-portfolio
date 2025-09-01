@@ -18,7 +18,7 @@ const Projects: React.FC = () => {
       image: '/booking.png',
       technologies: ['React.js', 'Express.js', 'MongoDB', 'Stripe' ,"Tailwind.CSS","CSS5","HTML5",],
       github: 'https://github.com/khileshmaskare34/shyama',
-      demo: '#'
+      demo: 'https://github.com/khileshmaskare34/shyama'
     },
     {
       title: 'Uber-Clone',
@@ -26,7 +26,7 @@ const Projects: React.FC = () => {
       image: '/uber.webp',
       technologies: ['React', 'Node.js', 'MongoDB', 'Express.js', "Javascript","CSS5","Tailwind.CSS" ,"HTML5"],
       github: 'https://github.com/vikasrahangdale/uber-app-clone',
-      demo: '#'
+      demo: 'https://github.com/vikasrahangdale/uber-app-clone'
     },
     {
       title: 'Khatabook Clone',
@@ -34,7 +34,7 @@ const Projects: React.FC = () => {
       image: '/khatabook.webp',
       technologies: [ 'Node.js', 'MongoDB',"HTML5","CSS","EJS","Tailwind.CSS"],
       github: 'https://github.com/vikasrahangdale/khatabook-project',
-      demo: '#'
+      demo: 'https://github.com/vikasrahangdale/khatabook-project'
     },
     {
       title: 'AI Chat Collaboration',
@@ -42,7 +42,7 @@ const Projects: React.FC = () => {
       image: 'https://images.pexels.com/photos/8728388/pexels-photo-8728388.jpeg?auto=compress&cs=tinysrgb&w=600',
       technologies: ['React', 'Node.js', 'MongoDB', 'Express.js', "Javascript","CSS5","Tailwind.CSS" ,"Gemini-API", "HTML5", 'Socket.io'],
       github: 'https://github.com/vikasrahangdale/chatapp-AI',
-      demo: '#'
+      demo: 'https://github.com/vikasrahangdale/chatapp-AI'
     },
     {
       title: 'Frontend-Project',
@@ -50,7 +50,7 @@ const Projects: React.FC = () => {
       image: '/your.png',
       technologies: [  "Javascript","CSS5","Tailwind.CSS" , "HTML5","Swiper.js"],
       github: 'https://github.com/vikasrahangdale/animation-project',
-      demo: '#'
+      demo: 'https://github.com/vikasrahangdale/animation-project'
     }
   ];
 
